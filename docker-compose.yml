@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  tracker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: tracker
+    restart: unless-stopped
+    ports:
+      # Main game tracker - TCP and UDP
+      - "50000:50000/tcp"
+      - "50000:50000/udp"
+      # Interesting games
+      - "50001:50001/tcp"
+      # HTTP interface
+      - "50005:50005/tcp"

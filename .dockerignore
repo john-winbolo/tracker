@@ -1,0 +1,21 @@
+# IDE files
+.idea/
+
+# Build directories
+build/
+cmake-build-debug/
+
+# Object files
+*.o
+
+# Git
+.git/
+.gitignore
+
+# Docker files (prevent recursion)
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Documentation
+*.md
