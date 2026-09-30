@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 // Package tcp serves the WinBolo tracker game-list protocol on port 50000
 // (all games) and is shared with the interesting-games listener on 50001.
 //

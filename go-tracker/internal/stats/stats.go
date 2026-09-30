@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 // Package stats holds the request counters reported in TCP/HTTP responses.
 //
 // The C tracker had a stats.c file full of stub no-op functions

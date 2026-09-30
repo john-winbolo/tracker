@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 // Package httpsrv serves the WinBolo tracker's HTTP-ish web view on port
 // 50005. Output is byte-for-byte the same as the C tracker — winbolo.net
 // scrapes this — including the trailing NUL after the header (which the C

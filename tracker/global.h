@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-3.0-or-later */
 #ifndef _GLOBAL_H  /* Double inclusion protection */
 #define _GLOBAL_H
 #define _UNICODE

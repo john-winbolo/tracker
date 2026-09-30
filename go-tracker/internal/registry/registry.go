@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 // Package registry holds the live set of WinBolo games seen by the tracker.
 //
 // Replaces the C tracker's currentGames singly-linked list with a map keyed

@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 // Package proto encodes/decodes the WinBolo tracker wire protocol.
 //
 // Byte-exact port of the C tracker's UDP handlers. The C struct uses
