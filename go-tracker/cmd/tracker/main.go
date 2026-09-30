@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 // tracker is the WinBolo tracker daemon — Go port of the C tracker.
 //
 // Listens on:

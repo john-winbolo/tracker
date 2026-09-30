@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 // Package udp serves the WinBolo tracker UDP protocol on port 50000.
 //
 // Handles:

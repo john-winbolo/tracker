@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 // Package bans implements the substring-match ban list from the C tracker.
 //
 // Compatibility notes: the C tracker called bansCreate(NULL) so the list was

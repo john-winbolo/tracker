@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-3.0-or-later */
 /*********************************************************
 *Name:          Util
 *Filename:      util.h

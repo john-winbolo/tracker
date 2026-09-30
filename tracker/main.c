@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-3.0-or-later */
 /*
  * main.c - Modified to use epoll instead of select
  * This version uses epoll on Linux and WSAPoll on Windows

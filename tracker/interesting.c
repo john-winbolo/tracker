@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-3.0-or-later */
 /*********************************************************
 *Name:          interesting
 *Filename:      interesting.c
